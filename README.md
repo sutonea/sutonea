@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sutonea
+- 👋 Hi, I’m @sutonea. I'm a Japanese.
 - 👀 I’m interested in Ruby, Rust
 - 🌱 I’m currently learning Rust
 <!-- - 💞️ I’m looking to collaborate on ... -->
